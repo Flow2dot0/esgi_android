@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.KotlinSchool" parent="BaseTheme">
+        <!-- Point 3-->
+        <item name="android:windowSplashScreenBackground">@android:color/background_light</item>
+        <!-- Point 2-->
+        <item name="android:windowSplashScreenIconBackgroundColor">@android:color/holo_red_light</item>
+        <!-- Point 1-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <!-- Point 4-->
+<!--        <item name="android:windowSplashScreenBrandingImage">-->
+<!--            @drawable/relam_horizontal</item>-->
+    </style>
+</resources>
