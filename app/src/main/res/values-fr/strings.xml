@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Mon comparateur</string>
-    <string name="product_name">Sandwich Poulet Crudités</string>
-    <string name="brand">Sodebo</string>
+    <string name="product_name"></string>
+    <string name="brand"></string>
     <string name="barcode">Code barres : %1$s</string>
     <string name="quantity">Quantité : %1$s</string>
     <string name="sold">Vendu au : %1$s</string>

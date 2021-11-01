@@ -6,8 +6,10 @@
         <entry key="app/src/main/res/drawable/toolbar_drawable.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout-v28/activity_yuka.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_recycler.xml" value="0.16077898550724637" />
         <entry key="app/src/main/res/layout/activity_test.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_yuka.xml" value="0.2977603133045459" />
+        <entry key="app/src/main/res/layout/activity_yuka.xml" value="0.23774403520838563" />
+        <entry key="app/src/main/res/layout/list_item_cell.xml" value="0.335" />
         <entry key="app/src/main/res/xml-v31/theme.xml" value="0.1" />
       </map>
     </option>
